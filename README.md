@@ -1,3 +1,5 @@
+<img src="https://github.com/fabiomatricardi/LLMdoTheRightThing/raw/main/medium-PromptLikeAPro.png" width=500>
+
 # LLMdoTheRightThing
 Repo of the code from the Medium article "LLM do the right thing!"
 
